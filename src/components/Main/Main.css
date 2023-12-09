@@ -1,0 +1,8 @@
+li {
+  display: flex;
+  list-style-type: none;
+}
+
+#board {
+  margin: auto;
+}

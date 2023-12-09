@@ -1,10 +1,8 @@
-import PhaseOne from '../PhaseOne/PhaseOne';
+import Board from '../Board/Board';
 import './Main.css';
 
 function Main() {
-  const greeting = 'there';
-
-  return <PhaseOne greeting={greeting} />;
+  return <Board />;
 }
 
 export default Main;
